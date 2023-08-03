@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Brute_Force-Generate_Subsets" external.linked.project.path="$MODULE_DIR$/../../../../Brute Force/Generate Subsets" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="algo-challenges-in-kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Brute Force/Generate Subsets">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Brute Force/Generate Subsets/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Brute Force/Generate Subsets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Brute Force/Generate Subsets/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

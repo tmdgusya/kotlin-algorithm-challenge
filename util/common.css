@@ -1,0 +1,42 @@
+.samples th, .samples td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    width: 300px;
+    /*max-width: 100%;*/
+    /*text-align: center;*/
+    /*alignment: center;*/
+}
+
+.sample th, .sample td {
+    border: 1px solid black;
+    padding: 15px;
+    width: 300px;
+    /*max-width: 100%;*/
+    /*text-align: center;*/
+    /*alignment: center;*/
+}
+
+.sample td {
+    border-top: none;
+    border-bottom: none;
+}
+
+.sample table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    width: 200px;
+    align: center;
+}
+
+.code span {
+    line-height: 22px;
+}

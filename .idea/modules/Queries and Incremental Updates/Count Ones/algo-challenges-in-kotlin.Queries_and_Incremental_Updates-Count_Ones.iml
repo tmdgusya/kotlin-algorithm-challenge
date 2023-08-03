@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Queries_and_Incremental_Updates-Count_Ones" external.linked.project.path="$MODULE_DIR$/../../../../Queries and Incremental Updates/Count Ones" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="algo-challenges-in-kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Queries and Incremental Updates/Count Ones">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Queries and Incremental Updates/Count Ones/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Queries and Incremental Updates/Count Ones/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Queries and Incremental Updates/Count Ones/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Dynamic_Programming-Longest_Palindromic_Subsequence" external.linked.project.path="$MODULE_DIR$/../../../../Dynamic Programming/Longest Palindromic Subsequence" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="algo-challenges-in-kotlin" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Dynamic Programming/Longest Palindromic Subsequence">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dynamic Programming/Longest Palindromic Subsequence/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dynamic Programming/Longest Palindromic Subsequence/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Dynamic Programming/Longest Palindromic Subsequence/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

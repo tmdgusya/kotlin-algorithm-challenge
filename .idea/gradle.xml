@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$PROJECT_DIR$/buildSrc" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Brute Force/Generate Binary Strings" />
+            <option value="$PROJECT_DIR$/Brute Force/Generate Derangements" />
+            <option value="$PROJECT_DIR$/Brute Force/Generate Partitions" />
+            <option value="$PROJECT_DIR$/Brute Force/Generate Subsets" />
+            <option value="$PROJECT_DIR$/Brute Force/Introduction" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Count Inversions" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Count in Range" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Guess a Number" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Lower Bound" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Median in Two Sorted Lists" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Opposite Values" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Points and Segments" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Searching Sorted Data" />
+            <option value="$PROJECT_DIR$/Divide and Conquer/Sorting Data" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Edit Distance" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Longest Palindromic Subsequence" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Maximum Amount of Gold" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Minimum Sum Path" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Money Change Again" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/Primitive Calculator" />
+            <option value="$PROJECT_DIR$/Dynamic Programming/The Main Idea" />
+            <option value="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures" />
+            <option value="$PROJECT_DIR$/Greedy Algorithms/Distinct Summands" />
+            <option value="$PROJECT_DIR$/Greedy Algorithms/Minimum Unchangeable Amount" />
+            <option value="$PROJECT_DIR$/Greedy Algorithms/Money Change" />
+            <option value="$PROJECT_DIR$/Greedy Algorithms/The Main Idea" />
+            <option value="$PROJECT_DIR$/Queries and Incremental Updates/Count Blocks of Ones" />
+            <option value="$PROJECT_DIR$/Queries and Incremental Updates/Count Blocks of Ones with Updates" />
+            <option value="$PROJECT_DIR$/Queries and Incremental Updates/Count Ones" />
+            <option value="$PROJECT_DIR$/Queries and Incremental Updates/Count Ones with Updates" />
+            <option value="$PROJECT_DIR$/Queries and Incremental Updates/Range Sum Queries" />
+            <option value="$PROJECT_DIR$/Warmup/Estimating the Running Time" />
+            <option value="$PROJECT_DIR$/Warmup/Maximum Pairwise Product" />
+            <option value="$PROJECT_DIR$/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue" />
+            <option value="$PROJECT_DIR$/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue" />
+            <option value="$PROJECT_DIR$/Warmup/Sum of Two Digits" />
+            <option value="$PROJECT_DIR$/Warmup/Welcome" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
